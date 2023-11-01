@@ -1,1 +1,1 @@
-# Bank_management_system_with_atm_interface
+# Bank_Management_System_with_ATM_Interface
